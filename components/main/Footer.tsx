@@ -15,7 +15,7 @@ const Footer = () => {
                         <span className="text-[15px] ml-[6px]">dan@stealth-ai.business</span>    
                     </p>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <RxDiscordLogo />
+                        <RxLinkedinLogo />
                         <span className="text-[15px] ml-[6px]">Linkedin</span>    
                     </p>
                 </div>
